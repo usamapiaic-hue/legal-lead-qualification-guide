@@ -1,0 +1,10 @@
+site_name: Legal Lead Qualification Guide
+site_description: How law firms can sort real prospective clients from unqualified leads quickly and politely, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://legal-lead-qualification-guide.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - Lead qualification: index.md
+markdown_extensions:
+  - tables
